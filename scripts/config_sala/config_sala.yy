@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"config_sala",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"config_sala",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
