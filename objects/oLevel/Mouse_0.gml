@@ -1,0 +1,1 @@
+room_goto(global.salas_room[texto-1]);

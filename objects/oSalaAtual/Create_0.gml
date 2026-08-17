@@ -1,0 +1,1 @@
+global.salaatual=0;

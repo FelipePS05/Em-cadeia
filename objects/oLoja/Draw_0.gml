@@ -1,5 +1,5 @@
 draw_self();
-
+draw_set_font(Fontex)
 var xx = x + 50;
 var yy = y + 50;
 var dist=0;

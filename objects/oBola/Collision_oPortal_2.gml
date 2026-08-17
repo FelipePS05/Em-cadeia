@@ -1,17 +1,8 @@
-var lado = x - other.x;
-
-if (lado < 0) 
-{
-    x = oPortal_1.x + 16;
-    y = oPortal_1.y;
-
-
-}
-else 
-{
-	x = oPortal_1.x - 16;
-    y = oPortal_1.y;
-
-
-
+if(time2==0){
+	x = oPortal_1.x;
+	y = oPortal_1.y;
+	time1=1;
+	alarm[1]=60
+	oPortal_1.sprite_index=sPortaldesativado;
+	oPortal_2.sprite_index=sPortaldesativado;
 }

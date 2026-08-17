@@ -1,6 +1,8 @@
+//Definir dereçao da bola
 global.xDirecao=1;
 global.yDirecao=0;
-var ani=instance_activate_all()
+
+//disparao com tempo de ativaçao
 if(tiro>0 && cooldown=0){
 image_index = 0;
 image_speed = 30;

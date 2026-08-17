@@ -3,7 +3,7 @@
   "%Name":"Sprite10",
   "bboxMode":0,
   "bbox_bottom":499,
-  "bbox_left":10,
+  "bbox_left":0,
   "bbox_right":99,
   "bbox_top":0,
   "collisionKind":1,

@@ -8,8 +8,8 @@
   "name":"oBuraco_negro",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Jogo",
+    "path":"folders/Objects/Jogo.yy",
   },
   "parentObjectId":null,
   "persistent":false,

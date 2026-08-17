@@ -8,8 +8,8 @@
   "name":"oTitulo",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Config",
+    "path":"folders/Objects/Config.yy",
   },
   "parentObjectId":null,
   "persistent":false,

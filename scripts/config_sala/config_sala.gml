@@ -6,12 +6,13 @@ global.bDirecao=0;
 switch (room){
 	case Sala1:
 		global.canhaod=1
-		global.canhaoe=0
+		global.canhaoe=1
 		global.canhaoc=1
 		global.canhaob=0
 		global.buracoNegro=0
 		global.buracoBranco=0
 	break;
+	/*
 	case Sala2:
 		global.canhaod=0
 		global.canhaoe=0
@@ -52,5 +53,6 @@ switch (room){
 		global.buracoNegro=0
 		global.buracoBranco=0
 	break;
+	*/
 
 }

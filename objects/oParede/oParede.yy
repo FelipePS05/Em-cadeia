@@ -9,8 +9,8 @@
   "name":"oParede",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"sala",
+    "path":"folders/Objects/sala.yy",
   },
   "parentObjectId":null,
   "persistent":false,
