@@ -7,7 +7,6 @@ enum status_bloqueado{
 	bloqueado,//0
 	desbloqueado//1
 }
-global.salaatual=0;
 global.salas =
 [
     status_bloqueado.desbloqueado,

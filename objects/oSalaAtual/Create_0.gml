@@ -1,1 +1,1 @@
-global.salaatual=0;
+global.salaatual=sal;

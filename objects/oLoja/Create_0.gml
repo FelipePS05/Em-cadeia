@@ -1,11 +1,12 @@
+#region config
 config_sala();
 nomes = [
 	"Direita",
 	"Esquerda",
 	"Cima",
 	"Baixo",
-	"Buraco \nNegro",
-	"Buraco \nBranco"
+	"Buraco Negro",
+	"Buraco Branco"
 
 ];
 
@@ -35,16 +36,11 @@ objetos = [
 	oBuraco_negro,
 	oBuraco_Branco
 ];
-distancia = [
-	80,
-	80,
-	80,
-	80,
-	80,
-	60,
-	60
-];
 
 
 global.torreSelecionada = -1;
+#endregion
 
+
+pagina = 0;
+itens_por_pagina = 4;

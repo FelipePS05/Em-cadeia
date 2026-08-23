@@ -1,3 +1,7 @@
+if (global.menu_aberto)
+{
+    exit;
+}
 //Definir dereçao da bola
 global.xDirecao=1;
 global.yDirecao=0;
